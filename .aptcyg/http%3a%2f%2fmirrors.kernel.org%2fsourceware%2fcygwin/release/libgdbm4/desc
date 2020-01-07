@@ -1,0 +1,19 @@
+libgdbm4
+sdesc: "GNU dbm database routines (runtime)"
+ldesc: "Gdbm is a GNU database indexing library, including routines which use
+extensible hashing.  Gdbm works in a similar way to standard UNIX dbm
+routines.  Gdbm is useful for developers who write C applications and
+need access to a simple and efficient database or who are building C
+applications which will use such a database. This version also supports
+ndbm and dbm emulation modes.
+
+This package provides the runtime libraries."
+category: Libs Database
+requires: cygwin
+version: 1.8.3-20
+install: x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-20.tar.bz2 12617 3d083cd9ce3fead2bd666e788b9abf76d585ef5e7cb3cd7be7ab9e5164fd796bdb3a494f1e2bad358353da4e8ad42607ae2aaff131b43f38a7d572cc1b60e04a
+source: x86/release/gdbm/gdbm-1.8.3-20-src.tar.bz2 241484 df6d3d831ae6b11efaadfccb49babb80df8cc3e0d9f91927e6575be8be7191ef37fea8fcba20ba917aeb18d5453644efedc02587b842d01392276cef2ad06443
+[prev]
+version: 1.8.3-8
+install: x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-8.tar.bz2 12656 ed51d40f964522b6ec22cdc86463e8ce3a1c31f91a13142466d0ceb7812a92e45b595e94ea5e5479148493a536d1a113e5ac8adfcfc28624b326e40829bf788d
+source: x86/release/gdbm/gdbm-1.8.3-8-src.tar.bz2 271151 73fcaa92fd2bf7b01e24fc9072b8215db3eb3f9b8ae03bb3740c6dbc8878232631d1d39a0df44fb1029c01255d656d523bdd66feb597d066b0c75448ad318bb0

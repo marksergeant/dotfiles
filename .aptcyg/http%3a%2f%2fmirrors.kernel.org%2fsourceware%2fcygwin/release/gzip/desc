@@ -1,0 +1,16 @@
+gzip
+sdesc: "The GNU compression utility"
+ldesc: "GNU Gzip is a popular data compression program originally
+written by Jean-loup Gailly for the GNU project. Mark Adler wrote the
+decompression part. It was developed as a replacement for compress
+because of Unisys and IBM patents covering the LZW algorithm at the
+time. The superior compression ratio of gzip is just a bonus."
+category: Base
+requires: bash libgcc1 cygwin
+version: 1.6-1
+install: x86/release/gzip/gzip-1.6-1.tar.xz 121704 e97adf3cd1e22e2d3b03cd328fb9b9f33e973fd95e1143e19e0d69dc994c13afe231efb2e5cd7ea71fcf7bda903a37dca255e74b796061a01c21e1e5bf429783
+source: x86/release/gzip/gzip-1.6-1-src.tar.xz 730268 c9c40aa2f22cf7a1c42606148abf300e9441cdb956cfe9ab91e307ac60f9a378d525dd9050b8c33209aa0677be50d1a382a19e9239f052ad2ecbad38062b76cf
+[prev]
+version: 1.4-1
+install: x86/release/gzip/gzip-1.4-1.tar.bz2 91167 9545b95acb4d9f9cb7d7c8977c3350410d833d6a97a0f5762cfa0a0f06f1e31086700fba9ec50ab8501847d4f07c678c3c34568da207f6eb951a31e46bc3b58f
+source: x86/release/gzip/gzip-1.4-1-src.tar.bz2 737753 6a65a1bd333233d9e401699e5e30e8867d95b7867b37d705200d6de13655adc74c0bf295cd225cce97434ee32a3670cdd19ef5509f3933fcef2d87db5205e008

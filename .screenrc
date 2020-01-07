@@ -1,0 +1,9 @@
+startup_message off
+nethack on
+hardstatus alwayslastline "%{Rk}[%{wk}$USER%{Bk}@%{wk}%H%{Rk}][%{wk}%c %{wk}%d%{Bk}/%{wk}%m%{Bk}/%{wk}%Y%{Rk}][%{wk}%l%{Rk}][%{wk}%w%{Rk}]"
+screen -t shell 0
+screen -t cplogs 1
+screen -t melraddb0 2
+screen -t sydraddb0 3
+screen -t usagedb0 4
+screen -t billit 5

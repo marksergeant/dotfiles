@@ -1,0 +1,344 @@
+  [Angband 4.0.5 Character Dump]
+
+ Name   Sarge        Age             37          Self  RB  CB  EB   Best
+ Race   Half-Elf     Height        4'6"   STR! 18/100  +0  +0  +0 18/100
+ Class  Rogue        Weight     8st 5lb   INT:     14  +1  +1  +0     16
+ Title  Filcher      Turns used:          WIS:      7  -1  -3  +3      6
+ HP     278/278      Game       2382095   DEX:     16  +1  +3  +0  18/20
+ SP     33/34        Standard    284493   CON:     18  -1  -1  +0     16
+                     Resting      90917
+
+ Level                 30    Armor      [28,+72]    Saving Throw     61%
+ Cur Exp           112162                           Stealth       Superb
+ Max Exp           112162    Melee       4d5,+43    Disarming        93%
+ Adv Exp           135000    To-hit       59,+34    Magic Devices     67
+                             Blows      2.0/turn    Perception    1 in 5
+ Gold               11299                           Searching        48%
+ Burden          144.8 lb    Shoot to-dam     +0    Infravision    20 ft
+ Overweight      -35.1 lb    To-hit       53,+12    Speed             14
+ Max Depth    1100' (L22)    Shots        0/turn
+
+ Your father was of the Nandor.  You are one of several children of a
+ Serf.  You are a well liked child.  You have dark brown eyes, straight
+ brown hair, and a fair complexion.
+
+
+rAcid:......++..... Nexus:........+....
+rElec:...+..++..... Nethr:.............
+rFire:......++..... Chaos:.............
+rCold:+.....++..... Disen:........+....
+rPois:......++..... pFear:+............
+rLite:+.........+.. pBlnd:.........+...
+rDark:............. pConf:.............
+Sound:............. pStun:.............
+Shard:............. HLife:........+....
+
+Regen:+............ Stea.:......+......
+  ESP:............. Sear.:.........+...
+Invis:+........+... Infra:............+
+FrAct:+.........+.. Tunn.:.............
+Feath:............. Speed:+..........+.
+S.Dig:+............ Blows:.............
+ImpHP:............. Shots:.............
+ Fear:............. Might:.............
+Aggrv:............. Light:+....+....+..
+
+
+  [Character Equipment]
+
+a) the Long Sword 'Ringil' (4d5) (+22,+25) <+10, +1> (charging)
+     Dropped by a Master rogue at 1000 feet (level 20)
+     
+     +10 speed.
+     Slays demons (powerfully), trolls, undead, evil creatures.
+     Branded with cold.
+     Provides resistance to frost, light.
+     Provides protection from fear.
+     Cannot be harmed by acid.
+     Blessed by the gods.  Slows your metabolism.  Speeds regeneration.
+      Prevents paralysis.  Grants the ability to see invisible things. 
+     
+     Radius 1 light.
+     
+     When activated, it creates a frost ball with damage 100.
+     Takes 96 turns to recharge at your current speed.
+     Your chance of success is 93.3%
+     
+     Combat info:
+     2.0 blows/round.
+     With +1 STR and +0 DEX you would get 2.3 blows
+     With +0 STR and +2 DEX you would get 2.3 blows
+     Average damage/round: 168 vs. creatures not resistant to cold,
+     219.8 vs. demons, 142 vs. trolls, 168 vs. undead, 142 vs. evil
+     creatures, and 116.2 vs. others.
+     
+c) a Beryl Ring of Damage (+0,+7)
+     Found lying on the floor in a pit at 500 feet (level 10)
+     
+d) a Fluorite Ring of Lightning [+12]
+     Bought from a store
+     
+     Provides resistance to lightning.
+     Cannot be harmed by lightning.
+     
+e) a Copper Amulet of Wisdom <+3>
+     Dropped by a Ranger at 1000 feet (level 20)
+     
+     +3 wisdom.
+     Sustains wisdom.
+     
+f) a Lantern (Everburning) <+2>
+     Found lying on the floor at 500 feet (level 10)
+     
+     Cannot be harmed by fire.
+     Radius 2 light.  No fuel required.
+     
+g) Hard Leather Armour of Elvenkind (-1) [16,+14] <+2>
+     Dropped by Gorbag, the Orc Captain at 700 feet (level 14)
+     
+     +2 stealth.
+     Provides resistance to acid, lightning, fire, frost, poison gas.
+     Cannot be harmed by acid, fire.
+     
+h) the Cloak 'Colluin' [1,+15]
+     Found lying on the floor in a pit at 1000 feet (level 20)
+     
+     Provides resistance to acid, lightning, fire, frost, poison gas.
+     Cannot be harmed by acid, fire.
+     
+     When activated, it grants temporary resistance to acid,
+     electricity, fire, cold and poison for 1d20+20 turns.
+     Takes 266 turns to recharge at your current speed.
+     Your chance of success is 94.9%
+     
+i) a Wicker Shield of Preservation [2,+8]
+     Found lying on the floor at 700 feet (level 14)
+     
+     Provides resistance to nexus, disenchantment.
+     Cannot be harmed by acid.
+     Sustains strength, dexterity, constitution.
+     Sustains your life force.  
+     
+j) an Iron Helm of Seeing [7,+7] <+2>
+     Found lying on the floor in a pit at 1050 feet (level 21)
+     
+     +2 searching skill.
+     Provides protection from blindness.
+     Grants the ability to see invisible things.  
+     
+k) the Set of Leather Gloves 'Cammithrim' (+5,+5) [1,+10] <+1>
+     Found lying on the floor of a special room at 950 feet (level 19)
+     
+     Provides resistance to light.
+     Cannot be harmed by acid, fire.
+     Sustains constitution.
+     Prevents paralysis.  
+     Radius 1 light.
+     
+     When activated, it fires a magic missile with damage 3d4.
+     Takes 4 turns to recharge at your current speed.
+     Your chance of success is 94.4%
+     
+l) a Pair of Leather Sandals of Speed [1,+4] <+4>
+     Dropped by a Black naga at 700 feet (level 14)
+     
+     +4 speed.
+     
+
+
+
+
+  [Character Inventory]
+
+a) 4 Books of Magic Spells [Magic for Beginners]
+b) 5 Books of Magic Spells [Conjurings and Tricks]
+c) 5 Books of Magic Spells [Incantations and Illusions]
+d) 4 Books of Magic Spells [Sorcery and Evocations]
+e) 4 Green Mushrooms of Second Sight
+f) 2 Indigo Potions of Cure Serious Wounds
+g) 9 Hazy Potions of Neutralize Poison
+h) 8 Metallic Green Potions of Restore Life Levels
+i) a Vermilion Potion of Speed
+j) 5 Scrolls titled "po met atimo" of Word of Recall
+k) a Silver-Plated Rod of Acid Bolts
+l) a Mithril-Plated Rod of Curing
+m) a Silver-Plated Wand of Magic Missile (7 charges)
+n) a Zirconium Wand of Sleep Monster (15 charges)
+o) 2 Balsa Staves of Teleportation (16 charges)
+p) a Beryl Ring of Damage
+     Found lying on the floor at 1100 feet (level 22)
+     
+     You do not know the full extent of this item's powers.
+     
+q) a Lantern (7500 turns)
+     Found lying on the floor at 1100 feet (level 22)
+     
+     Cannot be harmed by fire.
+     Radius 2 light.
+     
+r) a Broad Sword (2d5) {magical}
+     Dropped by Ugl�k, the Uruk at 1100 feet (level 22)
+     
+     You do not know the full extent of this item's powers.
+     
+     Combat info:
+     2.0 blows/round.
+     With +3 STR and +0 DEX you would get 2.3 blows
+     With +0 STR and +2 DEX you would get 2.3 blows
+     Average damage/round: 48.8.
+     
+s) a Short Bow (x2) (+0,+0)
+     Found lying on the floor of a special room at 1100 feet (level 22)
+     
+
+
+
+
+  [Character Quiver]
+
+
+
+  [Home Inventory]
+
+a) 39 Books of Magic Spells [Magic for Beginners]
+b) 38 Books of Magic Spells [Conjurings and Tricks]
+c) 4 Books of Magic Spells [Sorcery and Evocations]
+d) 14 Rations of Food
+e) 7 Flasks of oil
+     Branded with fire.
+     
+f) the Iron Helm of Gorlim (+8,+8) [7,+10] <-3, -5> {cursed}
+     Dropped by Azog, King of the Uruk-Hai at 1050 feet (level 21)
+     
+     Heavily cursed.
+     -3 intelligence.
+     -3 wisdom.
+     -5 searching skill.
+     Provides protection from fear.
+     Cannot be harmed by acid.
+     Prevents paralysis.  Grants the ability to see invisible things. 
+     Aggravates creatures nearby.  
+     
+g) the Long Sword 'Elvagil' (2d5) (+12,+12) <+2>
+     Dropped by Ufthak of Cirith Ungol at 700 feet (level 14)
+     
+     +2 dexterity.
+     +2 stealth.
+     Slays orcs, trolls.
+     Cannot be harmed by acid.
+     Feather Falling.  Grants the ability to see invisible things.  
+     
+     Combat info:
+     2.3 blows/round.
+     With +1 STR and +0 DEX you would get 2.7 blows
+     With +0 STR and +2 DEX you would get 2.7 blows
+     Average damage/round: 119.4 vs. orcs, 119.4 vs. trolls, and 89 vs.
+     others.
+     
+
+
+[Player history]
+      Turn   Depth  Note
+         0      0'  Began the quest to destroy Morgoth.
+       606     50'  Reached level 2
+      1277     50'  Reached level 3
+      2959    100'  Reached level 4
+      3819    150'  Reached level 5
+      4944    150'  Reached level 6
+      7261     50'  Found the Dagger 'Dethanc'
+      8270     50'  Reached level 7
+      8620    100'  Killed Fang, Farmer Maggot's dog
+     11437    150'  Killed Sméagol
+     11437    150'  Reached level 8
+     13168    100'  Killed Grip, Farmer Maggot's dog
+     14436    100'  Reached level 9
+     18138    150'  Reached level 10
+     21095      0'  Killed Farmer Maggot
+     22714    200'  Reached level 11
+     27064    200'  Reached level 12
+     32913    250'  Killed Bullroarer the Hobbit
+     33290    250'  Reached level 13
+     41232    350'  Reached level 14
+     44381    400'  Killed Wormtongue, Agent of Saruman
+     45080    400'  Reached level 15
+     46370    400'  Killed Lagduf, the Snaga
+     46627    400'  Reached level 16
+     50572    450'  Reached level 17
+     50641    450'  Reached level 18
+     54935    450'  Reached level 19
+     62052    500'  Reached level 20
+     64041    500'  Killed Mughash the Kobold Lord
+     68603    500'  Reached level 21
+     69996    500'  Killed Grishnákh, the Hill Orc
+     72095    500'  Found the Dagger 'Narthanc'
+     79351    550'  Killed Brodda, the Easterling
+     79689    550'  Reached level 22
+     79945    550'  Found the Set of Gauntlets 'Pauraegen' (LOST)
+     90738    600'  Reached level 23
+     92900    650'  Killed Boldor, King of the Yeeks
+     92909    650'  Killed Orfax, Son of Boldor
+     94812    650'  Reached level 23
+    100989    700'  Killed Ufthak of Cirith Ungol
+    100989    700'  Reached level 24
+    100994    700'  Found the Long Sword 'Elvagil'
+    117363    700'  Killed Golfimbul, the Hill Orc Chief
+    117363    700'  Reached level 25
+    138115    700'  Found the Dagger 'Nimthanc' (LOST)
+    145563    700'  Killed Gorbag, the Orc Captain
+    145563    700'  Reached level 26
+    152703    750'  Killed Ulfast, Son of Ulfang
+    180046    850'  Reached level 27
+    188956    900'  Killed Shagrat, the Orc Captain
+    191408    900'  Killed Nár, the Dwarf
+    202240    950'  Found the Set of Leather Gloves 'Cammithrim'
+    215271    950'  Reached level 28
+    225852   1000'  Found the Cloak 'Colluin'
+    232103   1000'  Found the Long Sword 'Ringil'
+    238353   1050'  Killed Bolg, Son of Azog
+    241754   1050'  Killed Azog, King of the Uruk-Hai
+    241759   1050'  Found the Iron Helm of Gorlim
+    242856   1050'  Reached level 29
+    267626   1050'  Killed Lugdush, the Uruk
+    274748   1100'  Reached level 30
+    283729   1100'  Killed Uglúk, the Uruk
+
+
+  [Options]
+
+  [User interface]
+
+Use the roguelike command keyset             : yes (rogue_like_commands)
+Use sound                                    : no  (use_sound)
+Show damage player deals to monsters         : yes (show_damage)
+Use old target by default                    : no  (use_old_target)
+Always pickup items                          : no  (pickup_always)
+Always pickup items matching inventory       : yes (pickup_inven)
+Show flavors in object descriptions          : yes (show_flavors)
+Highlight target with cursor                 : yes (show_target)
+Disturb whenever viewable monster moves      : yes (disturb_near)
+Show walls as solid blocks                   : no  (solid_walls)
+Show walls with shaded background            : yes (hybrid_walls)
+Color: Illuminate torchlight in yellow       : yes (view_yellow_light)
+Color: Shimmer multi-colored things          : yes (animate_flicker)
+Center map continuously                      : yes (center_player)
+Color: Show unique monsters in purple        : yes (purple_uniques)
+Automatically clear '-more-' prompts         : no  (auto_more)
+Color: Player color indicates % hit points   : yes (hp_changes_color)
+Allow mouse clicks to move the player        : yes (mouse_movement)
+Notify on object recharge                    : no  (notify_recharge)
+
+  [Birth]
+
+Randomise the artifacts (except a very few)  : no  (birth_randarts)
+Word of Recall has no effect                 : no  (birth_no_recall)
+Restrict creation of artifacts               : no  (birth_no_artifacts)
+Don't stack objects on the floor             : no  (birth_no_stacking)
+Lose artifacts when leaving level            : no  (birth_no_preserve)
+Don't generate connected stairs              : no  (birth_no_stairs)
+Don't show level feelings                    : no  (birth_no_feelings)
+Increase gold drops but disable selling      : no  (birth_no_selling)
+Use previous set of randarts                 : yes (birth_keep_randarts)
+Start with a kit of useful gear              : yes (birth_start_kit)
+Monsters learn from their mistakes           : no  (birth_ai_learn)
+Force player descent                         : no  (birth_force_descend)
+

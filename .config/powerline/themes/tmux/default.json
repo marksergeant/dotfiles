@@ -1,0 +1,74 @@
+{
+	"segments": {
+		"left": [
+			{
+				"function": "powerline.segments.common.net.hostname",
+				"priority": 100
+			},
+			{
+				"function": "powerline.segments.common.players.spotify",
+				"priority": 100
+			}
+		],
+		"right": [
+			{
+				"function": "powerline.segments.common.wthr.weather",
+				"args": {
+					"icons": {
+						"day":           "〇",
+						"blustery":      "⚑",
+						"rainy":         "☔",
+						"cloudy":        "☁",
+						"snowy":         "❅",
+						"stormy":        "☈",
+						"foggy":         "≡",
+						"sunny":         "☼",
+						"night":         "☾",
+						"windy":         "☴",
+						"not_available": "�",
+						"unknown":       "⚠"
+					}
+				},
+				"priority": 50
+			},
+			{
+				"function": "powerline.segments.common.net.network_load",
+				"priority": 50
+			},
+			{
+				"function": "powerline.segments.common.net.internal_ip",
+				"interface": "auto"
+			},
+			{
+				"function": "powerline.segments.common.net.external_ip"
+			},
+			{
+				"function": "powerline.segments.common.bat.battery"
+			},
+			{
+				"function": "powerline.segments.common.sys.uptime",
+				"priority": 50
+			},
+			{
+				"function": "powerline.segments.common.sys.system_load",
+				"priority": 50
+			},
+			{
+				"function": "powerline.segments.common.time.date",
+				"name": "time",
+				"args": {
+					"format": "%H:%M",
+					"istime": true
+				},
+				"priority": 50
+			},
+			{
+				"function": "powerline.segments.common.time.date",
+				"args": {
+					"format": "%d/%m/%Y"
+				},
+				"priority": 50
+			}
+		]
+	}
+}

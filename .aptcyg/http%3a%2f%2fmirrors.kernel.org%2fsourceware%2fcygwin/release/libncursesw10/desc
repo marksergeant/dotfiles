@@ -1,0 +1,16 @@
+libncursesw10
+sdesc: "Terminal display library"
+ldesc: "Ncurses (new curses) started as a freely distributable clone of
+SVr4 curses. It has outgrown the clone description, and now contains many
+features which are not in SVr4 curses. Curses is a pun on the term <<cursor
+optimization>>. It is a library of functions that manage an application's
+display on character-cell terminals (e.g., VT100)."
+category: Libs
+requires: cygwin libgcc1 libstdc++6 terminfo
+version: 6.0-2.20160123
+install: x86/release/ncurses/libncursesw10/libncursesw10-6.0-2.20160123.tar.xz 189340 fea60d15d7c196c9567f66a647a4fbf7c7a44759887d2ab76827bdeddf4119509de117642306c92acbc732b93d60b207cd39c759e50aabc675587e743bb4bc3b
+source: x86/release/ncurses/ncurses-6.0-2.20160123-src.tar.xz 3765664 cac484d3873d4fd5db673bfa77ed3036a6f9f25dbbd677bc245c8800c42a8dc58aa9d73d879c033413212838576bbcb1d8bb1f89cbd668c17703c83404036ac7
+[prev]
+version: 6.0-1.20151017
+install: x86/release/ncurses/libncursesw10/libncursesw10-6.0-1.20151017.tar.xz 190988 e2cbf1596e25e9e71c637e23f8c9fb6ddb64faf1bad62649b8eb5c4bb0d302a4537225fa32790cf3c03dd54c99b6fc839fed133fe59abfac69adffb08328b6e2
+source: x86/release/ncurses/ncurses-6.0-1.20151017-src.tar.xz 3564576 64f0d643fa481b2a5a8fb61818a2b4be053f96b874078b815e54167e9af9c1f2d01f07eb77b6d29cc2204d5ca94fb5b500cf9a3aca53502db7526db21e428789

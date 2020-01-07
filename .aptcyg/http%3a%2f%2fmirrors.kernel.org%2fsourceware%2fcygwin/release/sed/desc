@@ -1,0 +1,16 @@
+sed
+sdesc: "The GNU sed stream editor"
+ldesc: "The sed (Stream EDitor) editor is a stream or batch (non-interactive)
+editor.  Sed takes text as input, performs an operation or set of
+operations on the text and outputs the modified text.  The operations
+that sed performs (substitutions, deletions, insertions, etc.) can be
+specified in a script file or from the command line."
+category: Base
+requires: libintl8 cygwin
+version: 4.2.2-3
+install: x86/release/sed/sed-4.2.2-3.tar.bz2 256268 8fa1b6be9a0a138d6953037ca627b5b12f5cab1970f233fe8cfceb5539a936c4480a8123ef8b0c791d57eabcb88b3580d10247b1320fba5cb8f058d1d4b5302d
+source: x86/release/sed/sed-4.2.2-3-src.tar.bz2 1080648 2fd7dfca4896dade7ff9e4c80ecd047d6877e1852d9219bae02ac371526bc3bfd1fff8b3b0e3d61cfe8807b9188d5bdc5e83dde9a6fcae1d1a3ca9f6b6e49801
+[prev]
+version: 4.2.2-2
+install: x86/release/sed/sed-4.2.2-2.tar.bz2 256558 e5fc673f0bd9f9494523cf592d89b20085de483740e91488fd847660ac3143114fa4e31351a77274af5e217703dd81ffc42244d763fc4022a973dd3cd45a6105
+source: x86/release/sed/sed-4.2.2-2-src.tar.bz2 1079864 a4fa10b35a3dc13563987b893b620fed3a6625564e7f754d43ea59605542efcafbc065d0165c7875eff69d70a0a5b00e0348bdbbf732435d867c19bd8876162a

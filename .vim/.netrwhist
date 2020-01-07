@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/msergeant/Dropbox/dev/acurus/puppet/modules/postgresql/files/mel-isp-raddb-01'
+let g:netrw_dirhist_2='/Users/msergeant/Dropbox/dev/dodo/puppet/modules/cliservices/files'
+let g:netrw_dirhist_3='/Users/msergeant/Dropbox/dev/tomi/tomi-wp/web/app/themes/tomi/templates'
+let g:netrw_dirhist_4='/Library/Server/Web/Config/apache2/sites'
+let g:netrw_dirhist_5='/Users/msergeant/Dropbox/dev/acurus/anex-management-portal/app/config'
+let g:netrw_dirhist_6='/Users/msergeant/.vim'
+let g:netrw_dirhist_7='/Users/msergeant/Dropbox/dotfiles/.byobu/tmux-powerline/themes'
