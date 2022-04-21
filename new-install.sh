@@ -2,16 +2,6 @@
 
 # Download and install brew (If it doesn't already exist)
 
-<<<<<<< HEAD
-if [ -f /usr/local/bin/brew ]; then
-	echo "Brew already installed!"
-	brew update
-else
-	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-	# Update brew
-	brew update
-fi
-=======
 # Check if Brew is installed first.
 
 if [ -e "/usr/local/Homebrew" ]; then
@@ -20,7 +10,6 @@ fi
 
 # Update brew
 brew update
->>>>>>> c8c94e109d7ae28a5d020730227f69db06da5783
 
 # https://gist.github.com/millermedeiros/6615994 is the reference for this.
 # Also look at: https://github.com/donnemartin/dev-setup#osxprepsh-script
